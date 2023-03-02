@@ -14,21 +14,21 @@ I started learning Java with a paid course. After studying, I want to become a b
 
   <div id="badges">
     <a href="https://www.youtube.com/channel/UCt_El3-3jZjMAn32FLFFq4A" target="_blank">
-      <img src="https://user-images.githubusercontent.com/120592399/222373560-1f00c296-7f5a-457b-8eb5-13754cc28ad1.png" width="30" height="30" alt="Youtube" />
+      <img src="https://user-images.githubusercontent.com/120592399/222373560-1f00c296-7f5a-457b-8eb5-13754cc28ad1.png" width="35" height="35" alt="Youtube" />
     </a>
     <a href="https://t.me/wredn1yy" target="_blank">
-      <img src="https://user-images.githubusercontent.com/120592399/222373796-ade3264a-73f0-40c0-8ede-61106ea3b215.png" width="30" height="30" alt="telegram" />
+      <img src="https://user-images.githubusercontent.com/120592399/222373796-ade3264a-73f0-40c0-8ede-61106ea3b215.png" width="35" height="35" alt="telegram" />
     </a>
     <a href="https://user-images.githubusercontent.com/120592399/222374165-cddd6bb5-a4df-4a23-982e-bbad7935d58b.png" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" width="30" height="30" alt="Facebook"/>
     </a>
     <a href="https://vk.com/wredn1yy" target="_blank">
-      <img src="https://user-images.githubusercontent.com/120592399/222374304-802c1b62-bb5c-41a8-a586-b28da91e8ed1.png" width="30" height="30" alt="VK"/>
+      <img src="https://user-images.githubusercontent.com/120592399/222374304-802c1b62-bb5c-41a8-a586-b28da91e8ed1.png" width="35" height="35" alt="VK"/>
     </a>
     <a href="https://www.instagram.com/kostikyan__/" target="_blank">
-      <img src="https://user-images.githubusercontent.com/120592399/222375065-1cabdcc9-551d-474f-bf09-0d5a443a85f7.png" width="30" height="30" alt="Instagram"/>
+      <img src="https://user-images.githubusercontent.com/120592399/222375065-1cabdcc9-551d-474f-bf09-0d5a443a85f7.png" width="35" height="35" alt="Instagram"/>
       <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSGLrLSdBPsnQVLhTsMSxSLSFQVbmTHPCVdnKPGPssZrHnctZsnjsXmGSCTZdLMpBLxBwFdJ" target="_blank">
-      <img src="https://user-images.githubusercontent.com/120592399/222375701-6b320978-2f26-41d2-917a-7c2922e8a76d.png" width="30" height="30" alt="Gmail"/>
+      <img src="https://user-images.githubusercontent.com/120592399/222375701-6b320978-2f26-41d2-917a-7c2922e8a76d.png" width="35" height="35" alt="Gmail"/>
     </a>
   </div>
   
