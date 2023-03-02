@@ -2,8 +2,7 @@
 
 ---
 
-### :man_technologist: About me
-#
+### :man_technologist: About me:
 I am a beginner web developer. My journey to it began at an early age, where I learned 
 the HTML markup language and CSS technology through video lessons. I tried myself 
 in many ways, I tried to learn PHP,  Python, JS and I did fine. When I was 16, 
@@ -17,8 +16,7 @@ I started learning Java with a paid course. After studying, I want to become a b
 
 ---
 
-### 🤝 Social media
-#
+### 🤝 Social media:
   <div id="badges">
     <a href="https://www.youtube.com/channel/UCt_El3-3jZjMAn32FLFFq4A" target="_blank">
       <img src="https://user-images.githubusercontent.com/120592399/222373560-1f00c296-7f5a-457b-8eb5-13754cc28ad1.png" width="35" height="35" alt="Youtube" />
@@ -41,8 +39,7 @@ I started learning Java with a paid course. After studying, I want to become a b
   
 ---
   
-### 💼💻 Languages and Tools
-#
+### 💼💻 Languages and Tools:
 <img align="left" alt="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="left" alt="PHP" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -55,12 +52,12 @@ I started learning Java with a paid course. After studying, I want to become a b
 
 ---
 
-### ⚙️ GitHub статистика:
+### ⚙️ GitHub stats:
 
 <table>
   <tr>
     <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=FilimonovAlexey&theme=dark&background=000000" alt="webDev's Github stats" />
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=Kostikyan&theme=dark&background=000000" alt="webDev's Github stats" />
     </td>
     <td>
       <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kostikyan&layout=compact&theme=vision-friendly-dark" />
