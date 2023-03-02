@@ -41,15 +41,17 @@ I started learning Java with a paid course. After studying, I want to become a b
 ---
   
 ### 💼💻 Languages and Tools:
-<img align="left" alt="Java" width="40" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img align="left" alt="PHP" width="40" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-<img align="left" alt="HTML" width="40" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS" width="40" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img align="lef t" alt="JavaScript" width="40" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="left" alt="MySQL" width="40" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img align="left" alt="Python" width="40" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="Bootstrap" width="40" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-<img align="left" alt="WordPress" width="40" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" /></br>
+<div>
+  <img align="left" alt="Java" width="40" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="left" alt="PHP" width="40" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <img align="left" alt="HTML" width="40" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="left" alt="CSS" width="40" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="lef t" alt="JavaScript" width="40" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="left" alt="MySQL" width="40" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img align="left" alt="Python" width="40" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="left" alt="Bootstrap" width="40" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <img align="left" alt="WordPress" width="40" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" /></br>
+</div>
 
 ---
 
@@ -65,7 +67,7 @@ I started learning Java with a paid course. After studying, I want to become a b
     </td>
   </tr>
 </table>
-![github-contribution-grid-snake](https://user-images.githubusercontent.com/89845641/218791674-c52db856-24d2-429f-8867-170c365730d1.svg)
+<img src="https://user-images.githubusercontent.com/89845641/218791674-c52db856-24d2-429f-8867-170c365730d1.svg" width="100%">
 <!--
 **Kostikyan/Kostikyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
