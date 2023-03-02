@@ -13,20 +13,22 @@ I started learning Java with a paid course. After studying, I want to become a b
 ### 🤝 Social media
 
   <div id="badges">
-    <a href="" target="_blank">
+    <a href="https://www.youtube.com/channel/UCt_El3-3jZjMAn32FLFFq4A" target="_blank">
       <img src="https://user-images.githubusercontent.com/120592399/222373560-1f00c296-7f5a-457b-8eb5-13754cc28ad1.png" width="40" height="40" alt="Youtube" />
     </a>
     <a href="https://t.me/wredn1yy" target="_blank">
-      <img src="[https://cdn-icons-png.flaticon.com/512/2111/2111646.png](https://icons8.com/icon/UIL5ogsYIbpU/telegram-app)" width="40" height="40" alt="telegram group" />
+      <img src="https://user-images.githubusercontent.com/120592399/222373796-ade3264a-73f0-40c0-8ede-61106ea3b215.png" width="40" height="40" alt="telegram" />
     </a>
-    <a href="https://www.youtube.com/channel/UCbORpXVw1JNc0JYFSUqLWXA" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" width="40" height="40" alt="Youtube"/>
+    <a href="https://user-images.githubusercontent.com/120592399/222374165-cddd6bb5-a4df-4a23-982e-bbad7935d58b.png" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" width="40" height="40" alt="Facebook"/>
     </a>
-    <a href="https://vk.com/f1ll_zzz" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
+    <a href="https://vk.com/wredn1yy" target="_blank">
+      <img src="https://user-images.githubusercontent.com/120592399/222374304-802c1b62-bb5c-41a8-a586-b28da91e8ed1.png" width="40" height="40" alt="VK"/>
     </a>
-    <a href="https://zen.yandex.ru/id/603e522b3c020230bb223e5e" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Yandex_Zen_logo_icon.svg/1024px-Yandex_Zen_logo_icon.svg.png" width="40" height="40" alt="Zen Badge"/>
+    <a href="https://www.instagram.com/kostikyan__/" target="_blank">
+      <img src="https://user-images.githubusercontent.com/120592399/222375065-1cabdcc9-551d-474f-bf09-0d5a443a85f7.png" width="40" height="40" alt="Instagram"/>
+      <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSGLrLSdBPsnQVLhTsMSxSLSFQVbmTHPCVdnKPGPssZrHnctZsnjsXmGSCTZdLMpBLxBwFdJ" target="_blank">
+      <img src="https://user-images.githubusercontent.com/120592399/222375065-1cabdcc9-551d-474f-bf09-0d5a443a85f7.png" width="40" height="40" alt="Gmail"/>
     </a>
   </div>
   
