@@ -3,6 +3,7 @@
 ---
 
 ### :man_technologist: About me
+#
 I am a beginner web developer. My journey to it began at an early age, where I learned 
 the HTML markup language and CSS technology through video lessons. I tried myself 
 in many ways, I tried to learn PHP,  Python, JS and I did fine. When I was 16, 
@@ -11,7 +12,7 @@ I started learning Java with a paid course. After studying, I want to become a b
 ---
 
 ### 🤝 Social media
-
+#
   <div id="badges">
     <a href="https://www.youtube.com/channel/UCt_El3-3jZjMAn32FLFFq4A" target="_blank">
       <img src="https://user-images.githubusercontent.com/120592399/222373560-1f00c296-7f5a-457b-8eb5-13754cc28ad1.png" width="35" height="35" alt="Youtube" />
@@ -33,9 +34,9 @@ I started learning Java with a paid course. After studying, I want to become a b
   </div>
   
 ---
-
-###  💼Languages and Tools
-
+  
+### 💼Languages and Tools
+#
 <img align="left" alt="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="left" alt="PHP" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
