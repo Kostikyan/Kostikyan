@@ -28,7 +28,7 @@ I started learning Java with a paid course. After studying, I want to become a b
     <a href="https://www.instagram.com/kostikyan__/" target="_blank">
       <img src="https://user-images.githubusercontent.com/120592399/222375065-1cabdcc9-551d-474f-bf09-0d5a443a85f7.png" width="40" height="40" alt="Instagram"/>
       <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSGLrLSdBPsnQVLhTsMSxSLSFQVbmTHPCVdnKPGPssZrHnctZsnjsXmGSCTZdLMpBLxBwFdJ" target="_blank">
-      <img src="https://user-images.githubusercontent.com/120592399/222375065-1cabdcc9-551d-474f-bf09-0d5a443a85f7.png" width="40" height="40" alt="Gmail"/>
+      <img src="https://user-images.githubusercontent.com/120592399/222375701-6b320978-2f26-41d2-917a-7c2922e8a76d.png" width="40" height="40" alt="Gmail"/>
     </a>
   </div>
   
