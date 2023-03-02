@@ -14,7 +14,7 @@ I started learning Java with a paid course. After studying, I want to become a b
 
   <div id="badges">
     <a href="" target="_blank">
-      <img src="[https://cdn-icons-png.flaticon.com/512/2504/2504799.png](https://icons8.com/icon/szxM3fi4e37N/youtube)" width="40" height="40"       alt="Youtube" />
+      <img src="(https://icons8.com/icon/szxM3fi4e37N/youtube)" width="40" height="40" alt="Youtube" />
     </a>
     <a href="https://t.me/wredn1yy" target="_blank">
       <img src="[https://cdn-icons-png.flaticon.com/512/2111/2111646.png](https://icons8.com/icon/UIL5ogsYIbpU/telegram-app)" width="40" height="40" alt="telegram group" />
