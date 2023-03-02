@@ -65,7 +65,7 @@ I started learning Java with a paid course. After studying, I want to become a b
     </td>
   </tr>
 </table>
-
+![github-contribution-grid-snake](https://user-images.githubusercontent.com/89845641/218791674-c52db856-24d2-429f-8867-170c365730d1.svg)
 <!--
 **Kostikyan/Kostikyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
