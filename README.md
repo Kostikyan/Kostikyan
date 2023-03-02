@@ -1,7 +1,7 @@
 # Hi, my name is Vahe
   <img src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="50%" alt="">
 
----
+#
 
 ### :man_technologist: About me:
 I am a beginner web developer. My journey to it began at an early age, where I learned 
@@ -15,7 +15,7 @@ I started learning Java with a paid course. After studying, I want to become a b
 
 - :zap: I want to learn a new profession and get a job.
 
----
+#
 
 ### 🤝 Social media:
   <div id="badges">
@@ -38,7 +38,7 @@ I started learning Java with a paid course. After studying, I want to become a b
     </a>
   </div>
   
----
+#
   
 ### 💼💻 Languages and Tools:
 <div>
@@ -53,7 +53,7 @@ I started learning Java with a paid course. After studying, I want to become a b
   <img align="left" alt="WordPress" width="40" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" /></br>
 </div>
 
----
+#
 
 ### ⚙️ GitHub stats:
 
