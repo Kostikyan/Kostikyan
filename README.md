@@ -9,7 +9,7 @@ the HTML markup language and CSS technology through video lessons. I tried mysel
 in many ways, I tried to learn PHP,  Python, JS and I did fine. When I was 16, 
 I started learning Java with a paid course. After studying, I want to become a back-end developer!
 
-- :telescope: Studying back-end development!
+- :telescope: Studying java back-end development!
 
 - :seedling: I’m in high school 45.
 
