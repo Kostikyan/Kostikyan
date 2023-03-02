@@ -20,14 +20,13 @@ I started learning Java with a paid course. After studying, I want to become a b
 ### 🤝 Social media:
   <div id="badges">
     <a href="https://www.youtube.com/channel/UCt_El3-3jZjMAn32FLFFq4A" target="_blank">
-      <img src="https://user-images.githubusercontent.com/120592399/222390074-a1a4e6d8-5554-4c27-9bf4-b9f8ea601c25.png
-" width="35" height="35" alt="Youtube" />
+      <img src="https://user-images.githubusercontent.com/120592399/222390074-a1a4e6d8-5554-4c27-9bf4-b9f8ea601c25.png" width="35" height="35" alt="Youtube" />
     </a>
     <a href="https://t.me/wredn1yy" target="_blank">
       <img src="https://user-images.githubusercontent.com/120592399/222373796-ade3264a-73f0-40c0-8ede-61106ea3b215.png" width="35" height="35" alt="telegram" />
     </a>
-    <a href="https://user-images.githubusercontent.com/120592399/222374165-cddd6bb5-a4df-4a23-982e-bbad7935d58b.png" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" width="30" height="30" alt="Facebook"/>
+    <a href="https://www.facebook.com/profile.php?id=100088204985992" target="_blank">
+      <img src="https://user-images.githubusercontent.com/120592399/222374165-cddd6bb5-a4df-4a23-982e-bbad7935d58b.png" width="30" height="30" alt="Facebook"/>
     </a>
     <a href="https://vk.com/wredn1yy" target="_blank">
       <img src="https://user-images.githubusercontent.com/120592399/222374304-802c1b62-bb5c-41a8-a586-b28da91e8ed1.png" width="35" height="35" alt="VK"/>
