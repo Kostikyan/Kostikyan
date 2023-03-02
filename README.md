@@ -20,7 +20,8 @@ I started learning Java with a paid course. After studying, I want to become a b
 ### 🤝 Social media:
   <div id="badges">
     <a href="https://www.youtube.com/channel/UCt_El3-3jZjMAn32FLFFq4A" target="_blank">
-      <img src="https://user-images.githubusercontent.com/120592399/222373560-1f00c296-7f5a-457b-8eb5-13754cc28ad1.png" width="35" height="35" alt="Youtube" />
+      <img src="https://user-images.githubusercontent.com/120592399/222390074-a1a4e6d8-5554-4c27-9bf4-b9f8ea601c25.png
+" width="35" height="35" alt="Youtube" />
     </a>
     <a href="https://t.me/wredn1yy" target="_blank">
       <img src="https://user-images.githubusercontent.com/120592399/222373796-ade3264a-73f0-40c0-8ede-61106ea3b215.png" width="35" height="35" alt="telegram" />
