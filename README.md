@@ -76,7 +76,7 @@ I started learning Java with a paid course. After studying, I want to become a b
   </tr>
 </table>
 <div align="center">
-<img alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kostikyan" style="max-width: 100%;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kostikyan" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kostikyan" style="max-width: 100%;">
 </div>
 <img src="https://user-images.githubusercontent.com/89845641/218791674-c52db856-24d2-429f-8867-170c365730d1.svg" width="100%">
 
