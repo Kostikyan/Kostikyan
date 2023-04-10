@@ -76,6 +76,7 @@ I started learning Java with a paid course. After studying, I want to become a b
   </tr>
 </table>
 <img src="https://user-images.githubusercontent.com/89845641/218791674-c52db856-24d2-429f-8867-170c365730d1.svg" width="100%">
+<img src="https://camo.githubusercontent.com/2a728ce6ba7d3e8f0164e9a6d53e6fa540853ddc406cc3e8d4dc0fa33f954de0/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4564756172646f4e756e6573" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kostikyan" style="max-width: 100%;">
 <!--
 **Kostikyan/Kostikyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
