@@ -37,7 +37,7 @@ I started learning Java with a paid course. After studying, I want to become a b
     <a href="https://vk.com/wredn1yy" target="_blank">
       <img src="https://user-images.githubusercontent.com/120592399/222374304-802c1b62-bb5c-41a8-a586-b28da91e8ed1.png" width="40" height="40" alt="VK"/>
     </a>
-    <a href="https://www.instagram.com/kostikyan__/" target="_blank">
+    <a href="https://www.instagram.com/kostikyan_777_/" target="_blank">
       <img src="https://user-images.githubusercontent.com/120592399/222375065-1cabdcc9-551d-474f-bf09-0d5a443a85f7.png" width="40" height="40" alt="Instagram"/>
       <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSGLrLSdBPsnQVLhTsMSxSLSFQVbmTHPCVdnKPGPssZrHnctZsnjsXmGSCTZdLMpBLxBwFdJ" target="_blank">
       <img src="https://user-images.githubusercontent.com/120592399/222375701-6b320978-2f26-41d2-917a-7c2922e8a76d.png" width="40" height="40" alt="Gmail"/>
@@ -52,13 +52,17 @@ I started learning Java with a paid course. After studying, I want to become a b
   <img align="left" alt="PHP" width="40" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align="left" alt="HTML" width="40" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="left" alt="CSS" width="40" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="lef t" alt="JavaScript" width="40" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="left" alt="JavaScript" width="40" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="left" alt="MySQL" width="40" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="left" alt="Python" width="40" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="left" alt="Bootstrap" width="40" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img align="left" alt="Visual Studio" width="40" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
   <img align="left" alt="Intellij IDEA" width="40" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
-  <img align="left" alt="WordPress" width="40" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" /></br>
+  <img align="left" alt="WordPress" width="40" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
+  <img align="left" alt="Spring" width="40" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img align="left" alt="Angular" width="40" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+  <img align="left" alt="TypeScript" width="40" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img align="left" alt="Docker" width="40" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /> <br>
 </div>
 
 #
