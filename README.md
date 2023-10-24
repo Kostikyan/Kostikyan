@@ -10,16 +10,13 @@
 #
 
 ### :man_technologist: About me:
-I am a beginner web developer. My journey to it began at an early age, where I learned 
-the HTML markup language and CSS technology through video lessons. I tried myself 
-in many ways, I tried to learn PHP,  Python, JS and I did fine. When I was 16, 
-I started learning Java with a paid course. After studying, I want to become a back-end developer!
+I am a Java back-end developer specializing in the creation of web applications. My experience includes developing efficient server-side applications and crafting RESTful web applications. I have expertise in managing data flows to MySQL and using tools such as Postman, Conductor, and Docker. My core skills revolve around Java and Spring technologies, and my aim is to deliver high-quality and scalable web applications.
 
 - :telescope: Studying java back-end development!
 
 - :seedling: I’m in high school 45.
 
-- :zap: I want to learn a new profession and get a job.
+- :zap: I want to get a job.
 
 #
 
