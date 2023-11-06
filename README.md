@@ -59,7 +59,7 @@ I am a Java back-end developer specializing in the creation of web applications.
   <img align="left" alt="Spring" width="40" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
   <img align="left" alt="Angular" width="40" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img align="left" alt="TypeScript" width="40" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img align="left" alt="Docker" width="40" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /> <br>
+  <img align="left" alt="Docker" width="40" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /> <br> <br>
 </div>
 
 #
