@@ -9,17 +9,6 @@
 
 #
 
-### :man_technologist: About me:
-I am a Java back-end developer specializing in the creation of web applications. My experience includes developing efficient server-side applications and crafting RESTful web applications. I have expertise in managing data flows to MySQL and using tools such as Postman, Conductor, and Docker. My core skills revolve around Java and Spring technologies, and my aim is to deliver high-quality and scalable web applications.
-
-- :telescope: Studying java back-end development!
-
-- :seedling: I’m in high school 45.
-
-- :zap: I want to get a job.
-
-#
-
 ### 🤝 Social media:
   <div id="badges">
     <a href="https://www.youtube.com/channel/UCt_El3-3jZjMAn32FLFFq4A" target="_blank">
