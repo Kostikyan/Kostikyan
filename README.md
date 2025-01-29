@@ -1,7 +1,6 @@
 <h1 align="center">Hello there! 👋</h1>
 
 </br>
-</br>
 
 ## Languages and Tools 🛠️
 <p align="left">
@@ -42,7 +41,6 @@
 </p>
 
 </br>
-</br>
 
 ## Contact Me 💭
 <p align="left">
@@ -50,5 +48,8 @@
     <a href="https://www.facebook.com/profile.php?id=100088204985992"><img height="30" width="30" src="assets/facebook.svg" alt="facebook"></a>
     <a href="https://discord.com/users/kostikyanv"><img height="30" width="30" src="assets/discord.svg" alt="discord"></a>
 </p>
+
+</br>
+</br>
 
 <img src="https://user-images.githubusercontent.com/89845641/218791674-c52db856-24d2-429f-8867-170c365730d1.svg" width="100%">
