@@ -1,4 +1,4 @@
-# Hello there! 👋
+<h1 style="text-align: center">Hello there! 👋</h1>
 
 ## Languages and Tools 🛠️
 <p align="left">
