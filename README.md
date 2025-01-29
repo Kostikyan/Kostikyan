@@ -2,7 +2,10 @@
 
 <br>
 
-[![Discord Presence](https://lanyard.kyrie25.dev/api/723462929705336834)](https://discord.com/users/723462929705336834)
+<div align="center"> 
+  
+  [![Discord Presence](https://lanyard.kyrie25.dev/api/723462929705336834)](https://discord.com/users/723462929705336834)
+</div>
 
 </br>
 
