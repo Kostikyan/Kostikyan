@@ -53,7 +53,6 @@
 <p align="left">
     <a href="https://instagram.com/vahhhs333"><img height="30" width="30" src="assets/inst.svg" alt="instagram"></a>
     <a href="https://www.facebook.com/profile.php?id=100088204985992"><img height="30" width="30" src="assets/facebook.svg" alt="facebook"></a>
-    <a href="https://discord.com/users/kostikyanv"><img height="30" width="30" src="assets/discord.svg" alt="discord"></a>
 </p>
 
 </br>
