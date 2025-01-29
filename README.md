@@ -1,5 +1,8 @@
 <h1 align="center">Hello there! 👋</h1>
 
+</br>
+</br>
+
 ## Languages and Tools 🛠️
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -38,8 +41,11 @@
   <img src="https://img.shields.io/badge/Microservices-61DAFB?style=for-the-badge&logo=microdotblog&logoColor=white" />
 </p>
 
+</br>
+</br>
+
 ## Contact Me 💭
-<p align="left" margin-top="30px">
+<p align="left">
     <a href="https://instagram.com/vahhhs333"><img height="30" width="30" src="assets/inst.svg" alt="instagram"></a>
     <a href="https://www.facebook.com/profile.php?id=100088204985992"><img height="30" width="30" src="assets/facebook.svg" alt="facebook"></a>
     <a href="https://discord.com/users/kostikyanv"><img height="30" width="30" src="assets/discord.svg" alt="discord"></a>
