@@ -1,6 +1,4 @@
-<div style="width: 100%; display: flex; align-items: center">
-    <h1 align="center">Hello there! 👋</h1>
-</div>
+<h1 align="center">Hello there! 👋</h1>
 
 ## Languages and Tools 🛠️
 <p align="left">
