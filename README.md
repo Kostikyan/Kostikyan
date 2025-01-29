@@ -1,7 +1,6 @@
-### Hello there! 👋
+# Hello there! 👋
 
 ## Languages and Tools 🛠️
-
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -39,6 +38,7 @@
   <img src="https://img.shields.io/badge/Microservices-61DAFB?style=for-the-badge&logo=microdotblog&logoColor=white" />
 </p>
 
+## Contact Me 💭
 
 
 <img src="https://user-images.githubusercontent.com/89845641/218791674-c52db856-24d2-429f-8867-170c365730d1.svg" width="100%">
