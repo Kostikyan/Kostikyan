@@ -1,4 +1,6 @@
-<h1 style="text-align: center">Hello there! 👋</h1>
+<div style="width: 100%; display: flex; justify-content: center">
+    <h1>Hello there! 👋</h1>
+</div>
 
 ## Languages and Tools 🛠️
 <p align="left">
