@@ -1,7 +1,6 @@
 ### Hello there! 👋
 
 ## Languages and Tools 🛠️
-<div style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 5px;">
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
   ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)  
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
@@ -35,6 +34,5 @@
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
   ![MacBook](https://img.shields.io/badge/MacBook-333333?style=for-the-badge&logo=apple&logoColor=white)  
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)  
-</div>
 
 <img src="https://user-images.githubusercontent.com/89845641/218791674-c52db856-24d2-429f-8867-170c365730d1.svg" width="100%">
