@@ -1,5 +1,5 @@
 <div style="width: 100%; display: flex; align-items: center">
-    <h1>Hello there! 👋</h1>
+    <h1 align="center">Hello there! 👋</h1>
 </div>
 
 ## Languages and Tools 🛠️
