@@ -1,7 +1,7 @@
 <h1 align="center">Hello there! 👋</h1>
-
+<br>
+[![Discord Presence](https://lanyard.kyrie25.dev/api/723462929705336834)](https://discord.com/users/723462929705336834)
 </br>
-
 ## Languages and Tools 🛠️
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
