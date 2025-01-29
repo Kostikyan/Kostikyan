@@ -39,6 +39,10 @@
 </p>
 
 ## Contact Me 💭
-
+<p align="left">
+    <a href="https://instagram.com/vahhhs333"><img src="assets/inst.svg" alt="instagram"></a>
+    <a href="https://www.facebook.com/profile.php?id=100088204985992"><img src="assets/facebook.svg" alt="facebook"></a>
+    <a href="https://discord.com/users/kostikyanv"><img src="assets/discord.svg" alt="discord"></a>
+</p>
 
 <img src="https://user-images.githubusercontent.com/89845641/218791674-c52db856-24d2-429f-8867-170c365730d1.svg" width="100%">
