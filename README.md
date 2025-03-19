@@ -42,6 +42,8 @@
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Microservices-61DAFB?style=for-the-badge&logo=microdotblog&logoColor=white" />
 
+  </br>
+
   <img src="https://img.shields.io/badge/AWS_SNS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS_SQS-FF9900?style=for-the-badge&logo=amazonwebserviceslogoColor=white" />
   <img src="https://img.shields.io/badge/AWS_Kinesis-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
